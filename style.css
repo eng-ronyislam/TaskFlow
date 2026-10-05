@@ -71,3 +71,14 @@ button:hover {
   transform: translateY(-3px);
   box-shadow: 0 5px 12px rgba(0, 0, 0, 0.15);
 }
+
+.warning-message {
+  display: none;
+  color: #dc2626;
+  background-color: #fee2e2;
+  border: 1px solid #fca5a5;
+  padding: 10px 15px;
+  border-radius: 8px;
+  margin-top: 10px;
+  font-size: 14px;
+}
